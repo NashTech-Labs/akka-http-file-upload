@@ -8,4 +8,4 @@ sbt run
 sbt test
 
 ### Test application
-After start the application hit "http://localhost:9000/user/file/upload" in any rest client with a file, you will get your file uploaded in temp folder and a success response in rest client with the size of file.
+After start the application hit "http://localhost:9000/user/file/upload" in any rest client with a file, you will get your file uploaded in temp folder of your system and a success response in rest client with the size of file.
